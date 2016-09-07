@@ -1,0 +1,14 @@
+ul.pagination{
+
+}
+ul.pagination li a{
+    color: seagreen;
+    background-color: white;
+}
+
+
+ul.pagination li.active span, ul.pagination li.active span:hover{
+    border-color: seagreen;
+    background-color: seagreen;
+    color: white;
+}
